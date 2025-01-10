@@ -11,3 +11,15 @@ Consigli del giorno:
 2. proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
 Buon lavoro e buon divertimento! :faccia_leggermente_sorridente:
 */ 
+
+/*
+    a Creiamo un ciclo da 1 a 100
+    b Creaiamo una condizione:
+        b.1 -Per i multipli sia di 3 e di 5, stampiamo FizzBuzz --> METTO PRIMA I NUMERI CHE SONO DIVISIBILI SIA PER 3 CHE 5 
+            b.2 -Per i numeri multipli di 3 stampiamo fizz
+                b.3 -Per i numeri multipli di 5 stampiamo buzz
+                    b.4 - Altrimenti stampo tutti i numeri che non sono compresi nella condizione 
+                
+*/
+
+
