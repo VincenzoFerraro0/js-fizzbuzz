@@ -22,4 +22,8 @@ Buon lavoro e buon divertimento! :faccia_leggermente_sorridente:
                 
 */
 
-
+// CREO CICLO 
+for (let i = 1; i <= 100; i++){
+    console.log(i)
+}
+   
